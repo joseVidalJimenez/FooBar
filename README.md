@@ -12,7 +12,7 @@ Very difficult challenges, no retries available. You can submit only once.
 Python<br/>
 Sidetracks are sometimes fun and highly rewarded
 
-## Note1:
+## Note:
 * Considering that I did not expect passing the first level, and  that I was a bit sad not completing all 5 levels. I felt proud reaching level 4 on my new acquired language
 * Don’t tell anyone, it’s a secret!!
 
