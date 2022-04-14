@@ -17,7 +17,7 @@ Sidetracks are sometimes fun and highly rewarded
 * Don’t tell anyone, it’s a secret!!
 
 ## Find more about this challenge:
-(FooBar challenge)[https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a]
+[FooBar challenge](https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a)
 
 <a href="https://foobar.withgoogle.com/">
 	<img src="https://foobar.withgoogle.com/static/svg/logo.733f842a.svg" alt="" style="width:130px;height:120px;">
